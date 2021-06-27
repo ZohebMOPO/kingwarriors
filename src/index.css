@@ -1,13 +1,96 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+.container {
+  background-color: #335771;
+  align-content: center;
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+body {
+  margin: 0;
+}
+
+.map-container {
+  background-size: cover;
+}
+.button-style {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.button-style img {
+  width: 35px;
+  height: 25px;
+}
+
+.event-title {
+  font-size: 30px;
+  margin-bottom: 0.5em;
+}
+
+.period-title {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  color: #335771;
+  margin: 0;
+}
+
+.popup-box {
+  width: 400px;
+  background-color: #203747;
+  border-radius: 5px;
+}
+.box-container {
+  display: grid;
+  color: black;
+}
+
+.mapboxgl-popup-close-button {
+  font-size: 30px;
+  font-weight: bold;
+  color: #8b1d1d;
+}
+
+.mapboxgl-popup-content {
+  border: 4px dashed;
+  border-color: #203747;
+}
+
+.img-style {
+  width: 350px;
+  border-radius: 5px;
+
+  text-align: center;
+}
+.note {
+  font-size: 13px;
+  font-weight: lighter;
+  margin: 0;
+}
+.project-name {
+  font-size: 50px;
+  color: #203747;
+  text-shadow: 10px;
+  position: absolute;
+  padding: 30px;
+  margin: 0 0;
+  bottom: 50px;
+  opacity: 0.8;
+}
+
+.project-source a {
+  color: white;
+}
+.project-source {
+  color: white;
+  position: absolute;
+  margin: 0 0;
+  bottom: 40px;
+  left: 40px;
+  opacity: 0.5;
 }

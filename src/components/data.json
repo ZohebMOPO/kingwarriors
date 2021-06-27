@@ -15,7 +15,7 @@
             "id": 1,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "B.C. Matthews Hall",
             "coordinates": [
                 43.47386586, -80.54517584	
             ]
@@ -24,7 +24,7 @@
             "id": 2,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Biology 1",
             "coordinates": [
                 43.47066971, -80.54305153
             ]
@@ -33,7 +33,7 @@
             "id": 3,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Biology 2",
             "coordinates": [
                 43.47076315, -80.54381328	
             ]
@@ -42,7 +42,7 @@
             "id": 4,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Carl A. Pollock Hall",
             "coordinates": [
                 43.47095002, -80.53933936	
             ]
@@ -51,7 +51,7 @@
             "id": 5,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Central Services Building",
             "coordinates": [
                 43.47378801, -80.54366308	
             ]
@@ -60,7 +60,7 @@
             "id": 6,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Centre for Environmental and Information Technology",
             "coordinates": [
                 43.47149504, -80.54206448	
             ]
@@ -69,7 +69,7 @@
             "id": 7,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Chemistry 2",
             "coordinates": [
                 43.47209068, -80.54287451
             ]
@@ -78,7 +78,7 @@
             "id": 8,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Child Care Centre",
             "coordinates": [
                 43.47695300, -80.54520500
             ]
@@ -87,7 +87,7 @@
             "id": 9,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Columbia Icefield",
             "coordinates": [
                 43.47535682, -80.54852324
             ]
@@ -96,7 +96,7 @@
             "id": 10,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Columbia Lake Village",
             "coordinates": [
                 43.47008185, -80.56183773
             ]
@@ -105,7 +105,7 @@
             "id": 11,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Commissary",
             "coordinates": [
                 43.47406051, -80.54290133
             ]
@@ -114,7 +114,7 @@
             "id": 12,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Conrad Grebel University College",
             "coordinates": [
                 43.46666747, -80.54541188
             ]
@@ -123,7 +123,7 @@
             "id": 13,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Dana Porter Library",
             "coordinates": [
                 43.46984437, -80.54242926
             ]
@@ -132,7 +132,7 @@
             "id": 14,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Digital Media Stratford",
             "coordinates": [
                 43.36782800, -80.98211800
             ]
@@ -141,7 +141,7 @@
             "id": 15,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Douglas Wright Engineering Building",
             "coordinates": [
                 43.46998100, -80.54004200
             ]
@@ -150,7 +150,7 @@
             "id": 16,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "E7",
             "coordinates": [
                 43.47293000, -80.53958000
             ]
@@ -159,7 +159,7 @@
             "id": 17,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Earth Sciences & Chemistry",
             "coordinates": [
                 43.47134906, -80.54270285
             ]
@@ -168,7 +168,7 @@
             "id": 18,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "East Campus 1",
             "coordinates": [
                 43.47621300, -80.54032400
             ]
@@ -177,7 +177,7 @@
             "id": 19,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "East Campus 2",
             "coordinates": [
                 43.47455500, -80.54133700
             ]
@@ -186,7 +186,7 @@
             "id": 20,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "East Campus 3",
             "coordinates": [
                 43.47567200, -80.54215800
             ]
@@ -195,7 +195,7 @@
             "id": 21,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "East Campus 4",
             "coordinates": [
                 43.47479900, -80.53975800
             ]
@@ -204,7 +204,7 @@
             "id": 22,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "East Campus 5",
             "coordinates": [
                 43.47548400, -80.54071200
             ]
@@ -213,7 +213,7 @@
             "id": 23,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "East Campus Hall",
             "coordinates": [
                 43.47366343, -80.53864735
             ]
@@ -222,7 +222,7 @@
             "id": 24,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Energy Research Centre",
             "coordinates": [
                 43.47362450, -80.54447847
             ]
@@ -231,7 +231,7 @@
             "id": 24,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Engineering 2",
             "coordinates": [
                 43.47104345, -80.54041224
             ]
@@ -240,7 +240,7 @@
             "id": 25,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Engineering 3",
             "coordinates": [
                 43.47174420, -80.54086285
             ]
@@ -249,7 +249,7 @@
             "id": 26,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Engineering 5",
             "coordinates": [
                 43.47295300, -80.54008500
             ]
@@ -258,7 +258,7 @@
             "id": 27,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Environment 1",
             "coordinates": [
                 43.46839610, -80.54262238
             ]
@@ -267,7 +267,7 @@
             "id": 28,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Environment 2",
             "coordinates": [
                 43.46806907, -80.54335194
             ]
@@ -276,7 +276,7 @@
             "id": 29,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Environment 3",
             "coordinates": [
                 43.46745000, -80.54319000
             ]
@@ -285,7 +285,7 @@
             "id": 30,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "EVOLV1",
             "coordinates": [
                 43.47324689, -80.54864126
             ]
@@ -294,7 +294,7 @@
             "id": 31,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Federation Hall",
             "coordinates": [
                 43.44992000, -80.49354300
             ]
@@ -303,7 +303,7 @@
             "id": 32,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Gaukel",
             "coordinates": [
                 43.47342207, -80.54308372
             ]
@@ -312,7 +312,7 @@
             "id": 33,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "General Services Complex",
             "coordinates": [
                 43.46965750, -80.54103451
             ]
@@ -321,7 +321,7 @@
             "id": 34,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Graduate House",
             "coordinates": [
                 43.47058601, -80.54611194
             ]
@@ -330,7 +330,7 @@
             "id": 35,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Health Services",
             "coordinates": [
                 43.47058601, -80.54611194
             ]
@@ -339,7 +339,7 @@
             "id": 36,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Integrated Health Building 1",
             "coordinates": [
                 43.45224400, -80.49893200
             ]
@@ -348,7 +348,7 @@
             "id": 37,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Ira G. Needles Hall",
             "coordinates": [
                 43.46962635, -80.54363089
             ]
@@ -357,7 +357,7 @@
             "id": 38,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "J.R. Coutts Engineering Lecture Hall",
             "coordinates": [
                 43.46792891, -80.54165679
             ]
@@ -366,7 +366,7 @@
             "id": 39,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Mathematics & Computer Building",
             "coordinates": [
                 43.47031155, -80.54084139
             ]
@@ -375,7 +375,7 @@
             "id": 40,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Mathematics 3",
             "coordinates": [
                 43.47207511, -80.54394739
             ]
@@ -384,7 +384,7 @@
             "id": 41,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Minota Hagey Residence",
             "coordinates": [
                 43.47302000, -80.54448000
             ]
@@ -393,7 +393,7 @@
             "id": 42,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Modern Languages",
             "coordinates": [
                 43.46579535, -80.54275113
             ]
@@ -402,7 +402,7 @@
             "id": 43,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "NRB",
             "coordinates": [
                 43.46909688, -80.54287987
             ]
@@ -411,7 +411,7 @@
             "id": 44,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Physical Activities Complex",
             "coordinates": [
                 43.47026260, -80.53592688
             ]
@@ -420,7 +420,7 @@
             "id": 45,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Physics",
             "coordinates": [
                 43.47242353, -80.54613339
             ]
@@ -429,7 +429,7 @@
             "id": 46,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Psychology, Anthropology & Sociology",
             "coordinates": [
                 43.47071643, -80.54167824
             ]
@@ -438,7 +438,7 @@
             "id": 47,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Quantum Nano Centre",
             "coordinates": [
                 43.46699451, -80.54251509
             ]
@@ -447,7 +447,7 @@
             "id": 48,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Renison University College",
             "coordinates": [
                 43.47117400, -80.54447600
             ]
@@ -456,7 +456,7 @@
             "id": 49,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Research Advancement Centre",
             "coordinates": [
                 43.46881657, -80.54762202
             ]
@@ -465,7 +465,7 @@
             "id": 50,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Research Advancement Centre 2",
             "coordinates": [
                 43.47884000, -80.55498000
             ]
@@ -474,7 +474,7 @@
             "id": 51,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Research Institute for Aging",
             "coordinates": [
                 43.47863000, -80.55553000
             ]
@@ -483,7 +483,7 @@
             "id": 52,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Ron Eydt Village Central Complex",
             "coordinates": [
                 43.47622400, -80.57124700
             ]
@@ -492,7 +492,7 @@
             "id": 53,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Ron Eydt Village East Quad",
             "coordinates": [
                 43.47015582, -80.55412369
             ]
@@ -501,7 +501,7 @@
             "id": 54,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Ron Eydt Village North Quad",
             "coordinates": [
                 43.46947600, -80.55317000
             ]
@@ -510,7 +510,7 @@
             "id": 55,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Ron Eydt Village South Quad",
             "coordinates": [
                 43.47067200, -80.55365200	
             ]
@@ -519,7 +519,7 @@
             "id": 56,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Ron Eydt Village West Quad",
             "coordinates": [
                 43.46952200, -80.55440900
             ]
@@ -528,7 +528,7 @@
             "id": 57,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "School of Architecture",
             "coordinates": [
                 43.47079900, -80.55476300
             ]
@@ -537,7 +537,7 @@
             "id": 58,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "School of Optometry & Vision Science",
             "coordinates": [
                 43.35857200, -80.31692000
             ]
@@ -546,7 +546,7 @@
             "id": 59,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "School of Pharmacy",
             "coordinates": [
                 43.47592517, -80.54552990
             ]
@@ -555,7 +555,7 @@
             "id": 60,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Science Teaching Complex",
             "coordinates": [
                 43.45275100, -80.49870600
             ]
@@ -564,7 +564,7 @@
             "id": 61,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "South Campus Hall",
             "coordinates": [
                 43.47065000, -80.54340800
             ]
@@ -573,7 +573,7 @@
             "id": 62,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "St. Jerome's University",
             "coordinates": [
                 43.46915917, -80.54058390
             ]
@@ -582,7 +582,7 @@
             "id": 63,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "St. Paul's University College",
             "coordinates": [
                 43.46926818, -80.5458839543
             ]
@@ -591,7 +591,7 @@
             "id": 64,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Student Life Centre",
             "coordinates": [
                 43.46776200, -80.54640400
             ]
@@ -600,7 +600,7 @@
             "id": 65,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Tech Town",
             "coordinates": [
                 43.47160100, -80.54545500
             ]
@@ -609,7 +609,7 @@
             "id": 66,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "University Club",
             "coordinates": [
                 43.47955300, -80.54860200
             ]
@@ -618,7 +618,7 @@
             "id": 67,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Beck Hall",
             "coordinates": [
                 43.47233400, -80.54737800
             ]
@@ -627,7 +627,7 @@
             "id": 68,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Community Center",
             "coordinates": [
                 43.47078800, -80.53477100
             ]
@@ -636,7 +636,7 @@
             "id": 69,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Eby Hall",
             "coordinates": [
                 43.47074200, -80.53519200
             ]
@@ -645,7 +645,7 @@
             "id": 70,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Waterloo Court",
             "coordinates": [
                 43.47061500, -80.53560200
             ]
@@ -654,7 +654,7 @@
             "id": 71,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Wellesley Court",
             "coordinates": [
                 43.47007000, -80.53492000	
             ]
@@ -663,7 +663,7 @@
             "id": 72,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Wilmot Court",
             "coordinates": [
                 43.47155000, -80.53564000
             ]
@@ -672,7 +672,7 @@
             "id": 73,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "UW Place Woolwich Court",
             "coordinates": [
                 43.47111000, -80.53666000
             ]
@@ -681,7 +681,7 @@
             "id": 74,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Village 1 Central Complex",
             "coordinates": [
                 43.47064000, -80.53354000
             ]
@@ -690,7 +690,7 @@
             "id": 75,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Village 1 House East 1",
             "coordinates": [
                 43.47160000, -80.54996000
             ]
@@ -699,7 +699,7 @@
             "id": 76,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Village 1 House East 2",
             "coordinates": [
                 43.47174500, -80.54931700
             ]
@@ -708,9 +708,72 @@
             "id": 77,
             "img": "",
             "info": "",
-            "name": "",
+            "name": "Village 1 House East 3",
             "coordinates": [
                 43.47182100, -80.54901700
+            ]
+        },
+        {
+            "id": 78,
+            "img": "",
+            "info": "",
+            "name": "Village 1 House East 4",
+            "coordinates": [
+                43.47156800, -80.54852600
+            ]
+        },
+        {
+            "id": 79,
+            "img": "",
+            "info": "",
+            "name": "Village 1 House East 6",
+            "coordinates": [
+                43.47144300, -80.54930400
+            ]
+        },
+        {
+            "id": 80,
+            "img": "",
+            "info": "",
+            "name": "Village 1 House North 1",
+            "coordinates": [
+                43.47209000, -80.55003000
+            ]
+        },
+        {
+            "id": 81,
+            "img": "",
+            "info": "",
+            "name": "Village 1 House North 3",
+            "coordinates": [
+                43.47242000, -80.54994000
+            ]
+        },
+        {
+            "id": 82,
+            "img": "",
+            "info": "",
+            "name": "William G. Davis Computer Research Centre",
+            "coordinates": [
+                43.47276100, -80.54216400
+            ]
+        },
+        {
+            "id": 83,
+            "img": "",
+            "info": "",
+            "name": "William Lyon Mackenzie King Village",
+            "coordinates": [
+                43.47150900, -80.55272900
+            ]
+        },
+        {
+            "id": 84,
+            "img": "",
+            "link": "https://uwaterloo.ca/information-systems-technology/statistics/wifi-charts/building/67",
+            "name": "William M. Tatham Centre for Co-operative Education & Career Action",
+            "coordinates": [
+                43.46900000, -80.54132400
             ]
         }
     ]

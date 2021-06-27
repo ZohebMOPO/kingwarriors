@@ -1,13 +1,14 @@
 import React, { useState } from "react";
 import ReactMapGL, { Marker, Popup, FlyToInterpolator } from "react-map-gl";
 import * as eventsData from "./data.json";
+
 function Map() {
   const [viewport, setViewport] = useState({
     width: "99vw",
     height: "98vh",
-    latitude: 15,
-    longitude: 0,
-    zoom: 2,
+    latitude: 43.4643,
+    longitude: -80.5204,
+    zoom: 15,
     pitch: 40,
   });
 
@@ -17,12 +18,12 @@ function Map() {
     <ReactMapGL
       className="map-container"
       {...viewport}
-      mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
+      mapboxApiAccessToken="pk.eyJ1Ijoiem9oZWJraGFuIiwiYSI6ImNrbjVkdGd1dzAyNG4zMHF2aTA0NHZnbWkifQ.JPHbNZJCUQUBEF1U3hYZ4Q"
       onViewportChange={(viewport) => {
         setViewport(viewport);
       }}
       // Changed the map to the cold war theme map
-      mapStyle="mapbox://styles/vietbuiminh/cknb5qncl12ap17lp7dfwujyo"
+      mapStyle="mapbox://styles/zohebkhan/cknbg7zfg0nu917qjvpi70kbi"
     >
       {eventsData.buildings.map((event) => (
         // Marker getting data from JSON file in data folder
@@ -40,13 +41,18 @@ function Map() {
                 ...viewport,
                 longitude: event.coordinates[1],
                 latitude: event.coordinates[0],
-                zoom: 6,
+                zoom: 17,
                 transitionDuration: 1000,
                 transitionInterpolator: new FlyToInterpolator(),
               });
             }}
           >
-            <img src="conflict.png" alt="war conflict symbol" />
+            <img
+              src="https://uwaterloo.ca/brand/sites/ca.brand/files/styles/body-500px-wide/public/uploads/images/school-lockup-4.jpg?itok=zvfUEt-6"
+              alt=""
+              width="25"
+              height="25"
+            />
           </button>
         </Marker>
       ))}
@@ -71,12 +77,6 @@ function Map() {
         >
           <div className="box-container">
             <h2 className="event-title">💥{selectedEvent.name}</h2>
-            <p>{selectedEvent.info}</p>
-            <img
-              className="img-style"
-              src={selectedEvent.img}
-              alt={"the event of " + selectedEvent.name}
-            />
           </div>
         </Popup>
       ) : null}
