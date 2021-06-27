@@ -73,7 +73,7 @@ function Map() {
             onClose={() => {
               setViewport({
                 ...viewport,
-                zoom: 3,
+                zoom: 5,
                 transitionDuration: 500,
                 transitionInterpolator: new FlyToInterpolator(),
               });
