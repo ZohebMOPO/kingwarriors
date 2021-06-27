@@ -1,70 +1,15 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Inspiration
+In August 2020,  I saw an [article](https://news.stanford.edu/2020/08/06/stanford-students-create-virtual-campus-recapture-university-experience/). It was an eye-opener. My `perspective` changed of watching how the web app works. This was my inspiration.
+## What it does
+You can move around the map and experience the waterloo campus in a much better way :).
+## How I built it
+I built it using React for the frontend and used Mapbox API for showing the map and scraped the data from Waterloo [Website](https://uwaterloo.ca/information-systems-technology/statistics/wifi-charts/building-select-index)
+## Challenges I ran into
+First of all my stack was using Golang and React for the frontend. But due to some database issues. (11hrs left to the submission) I dropped down the idea of using it and move forward with a little bit different idea and make something that is actually visual. I also had a chat feature(using Firebase API). I couldn't do it because I had the free tier(which doesn't let you use their `authentication` service). So I had to drop down some awesome features due to some financial issues which would have made the web app more authentic.
+## Accomplishments that I am proud of
+I am proud that it is fetching the Mapbox API and I am glad that this hackathon taught me how to make decisions in various situations. I increased my maturity tbh.
+## What I learned
+I learned Golang, used it as a back-end language. Even tho, in the end, I shifted to something else it was worth using.
+## What's next for King Warrior
+If I get some kind of `credit card or funding` then I am really looking forward to adding authentication and making a user Dashboard and bringing all waterloo students together with area-wise chats and 
+ personal DMs and I hope that the journey begins from `EngHack`.
